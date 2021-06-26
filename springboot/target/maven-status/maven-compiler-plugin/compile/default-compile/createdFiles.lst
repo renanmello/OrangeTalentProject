@@ -1,0 +1,10 @@
+com\digitalinnovation\springboot\config\AppController.class
+entity\Veiculo.class
+com\digitalinnovation\springboot\Controller\HellowController.class
+com\digitalinnovation\springboot\Controller\UserController.class
+entity\User.class
+repository\UserRepository.class
+com\digitalinnovation\springboot\config\DBconfiguration.class
+com\digitalinnovation\springboot\Controller\VeiculoController.class
+entity\User$UserBuilder.class
+com\digitalinnovation\springboot\SpringbootApplication.class
